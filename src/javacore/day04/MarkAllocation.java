@@ -2,7 +2,7 @@ package javacore.day04;
 
 import java.util.Scanner;
 
-public class MearkAllocation {
+public class MarkAllocation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter marks:");
@@ -24,5 +24,5 @@ public class MearkAllocation {
         }
         else{
                 System.out.println("Fail");
-        }
+        }}
 }
