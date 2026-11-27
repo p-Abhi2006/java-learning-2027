@@ -40,3 +40,4 @@ System.out.println("Square of "+n+" is: "+result);
 System.out.println("Largest:"+largest);
     }
 }
+
